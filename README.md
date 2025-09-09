@@ -1,6 +1,6 @@
 # Phishing Email Simulation Program  
 
-The **Phishing Email Simulation Program** is a cybersecurity training tool designed to simulate real-world phishing attacks in a safe, controlled environment. It leverages **AI-generated content** to craft realistic phishing emails with embedded malicious links or attachments. This program is ideal for **cybersecurity awareness campaigns, red team exercises, and phishing defense training** in academic and organizational setups.   
+The **Phishing Email Simulation Program** is a cybersecurity training tool designed to simulate real-world phishing attacks in a safe, controlled environment. It leverages **AI-generated content** to craft realistic phishing emails with embedded malicious links or attachments. This program is ideal for **cybersecurity awareness campaigns, red team exercises, and phishing defense training** in academic and organizational setups. 
  
 ---
 
