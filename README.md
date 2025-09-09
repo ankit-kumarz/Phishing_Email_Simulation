@@ -60,6 +60,6 @@ This project is open-source and available under the MIT License.
 ---
 
 ## 👤 Author  
-**Ankit Kumar**  
+**Ankit Kumar**   
 - [LinkedIn](https://www.linkedin.com/in/ankitkumarz)  
 - [GitHub](https://github.com/ankit-kumarz)  
