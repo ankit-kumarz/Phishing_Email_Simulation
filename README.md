@@ -33,7 +33,7 @@ The **Phishing Email Simulation Program** is a cybersecurity training tool desig
 
 ## 🚀 Use Cases  
 - **Cybersecurity Training** – Provide hands-on phishing detection exercises for students.  
-- **Phishing Awareness Campaigns** – Test employee awareness in organizational setups.  
+- **Phishing Awareness Campaigns** – Test employee awareness in organizational setups.   
 - **Red Team Exercises** – Evaluate email security defenses in simulated attack scenarios.  
 - **Threat Analysis** – Understand phishing trends and develop preventive strategies.  
 
