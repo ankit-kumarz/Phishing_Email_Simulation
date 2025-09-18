@@ -4,7 +4,7 @@ The **Phishing Email Simulation Program** is a cybersecurity training tool desig
  
 --- 
 
-## ✨ Key Features  
+## ✨ Key Features    
 - **AI-Powered Content Generation** – Creates realistic and context-aware phishing emails that closely resemble real-world attacks.  
 - **Malicious Link Embedding** – Disguises harmful links or attachments to mimic genuine phishing techniques.  
 - **Valid Email Service Integration** – Sends phishing simulations using legitimate email services to bypass basic filters and enhance authenticity.  
