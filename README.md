@@ -55,7 +55,7 @@ Unauthorized or malicious use of this tool is strictly prohibited and may be ill
 ---
 
 ## 📜 License  
-This project is open-source and available under the MIT License.  
+This project is open-source and available under the MIT License.   
 
 ---
 
