@@ -27,7 +27,7 @@ The **Phishing Email Simulation Program** is a cybersecurity training tool desig
 - **Frameworks & Libraries:** Flask/Django (for web interface), LangChain / OpenAI API (for AI-based content generation)  
 - **Email Services:** SMTP / APIs (e.g., Gmail, Outlook, SendGrid)  
 - **Databases:** MySQL / SQLite (for storing logs and reports)  
-- **Tools:** Docker (deployment), Wireshark / Burp Suite (traffic analysis during simulations)  
+- **Tools:** Docker (deployment), Wireshark / Burp Suite (traffic analysis during simulations)   
 
 ---
 
