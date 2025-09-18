@@ -13,7 +13,7 @@ The **Phishing Email Simulation Program** is a cybersecurity training tool desig
 
 ---
 
-## 🏗️ System Workflow  
+## 🏗️ System Workflow   
 1. **Email Content Generation** – AI models generate phishing email text tailored to realistic scenarios.  
 2. **Malicious Embedding** – Links or attachments are injected into the generated email.  
 3. **Delivery via Email Service** – The crafted phishing email is sent using a valid SMTP/email service.  
